@@ -24,6 +24,12 @@
  * Copyright 2012-2013 Mattia Larentis
  * http://www.apache.org/licenses/LICENSE-2.0
  */
+ #logoSkills{
+  width: 10%;
+ }
+ #logoCss{
+  width: 5%;
+ }
  .align{
    text-align: center;
    margin-left: 100px ;
