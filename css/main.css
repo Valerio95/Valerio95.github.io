@@ -24,6 +24,12 @@
  * Copyright 2012-2013 Mattia Larentis
  * http://www.apache.org/licenses/LICENSE-2.0
  */
+ #social{ 
+  display: inline-block;
+    width: 100%;
+    padding-top: 1rem;
+    font-size: 1.5rem;
+ }
 .bootstrap-switch {
   display: inline-block;
   direction: ltr;
